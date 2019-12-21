@@ -1,0 +1,9 @@
+.app-main{
+display: grid;
+height: 100vh;
+width: 100vw;
+position: static;
+justify-items: center;
+align-items: center;
+background-color: bisque;
+}
